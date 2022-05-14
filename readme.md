@@ -1,1 +1,1 @@
-# GitHub Based Strore
+# GitHub Based Store
