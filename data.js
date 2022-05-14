@@ -1,3 +1,6 @@
+export const storeConfig = {
+  name: "Store Name",
+};
 export default [
   {
     name: "泡泡弓箭",
